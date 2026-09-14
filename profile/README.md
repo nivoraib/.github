@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.png" alt="NivoraIB Logo" width="104" height="104" />
+  <img src="https://raw.githubusercontent.com/nivoraib/.github/main/profile/logo.png" alt="NivoraIB Logo" width="104" height="104" />
   <h1>NivoraIB</h1>
   <p><strong>AI Workspace for IB Teachers</strong></p>
   <p>Plan, teach, assess, and manage teaching workflows in one intelligent workspace.</p>
